@@ -28,3 +28,4 @@ This project helps in understanding healthcare data trends and improves decision
 ## 🚀 Future Scope
 - Machine Learning prediction
 - Web dashboard
+Project completed successfully.
